@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19215901461",
+    "project_id": "carfirebase-17265",
+    "storage_bucket": "carfirebase-17265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19215901461:android:d6ae760c732c33b8757f1c",
+        "android_client_info": {
+          "package_name": "com.example.carfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19215901461-5kqnj0vj62h9p8c76h22p87j2quamhpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6hc0rW3x-L737HG6M4_XgaR9vp501yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19215901461-5kqnj0vj62h9p8c76h22p87j2quamhpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
