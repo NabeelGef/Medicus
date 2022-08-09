@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CarFirebase</string>
+    <string name="reportlist">Report List</string>
+    <string name="biomarker_details">Biomarker Details</string>
+    <string name="info">Info</string>
+    <string name="insights">Insights</string>
+    <string name="retry">retry</string>
 </resources>
